@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Hayleys-MBP-2.lan 21.6.0 Darwin Kernel Version 21.6.0: Mon Aug 22 20:17:10 PDT 2022; root:xnu-8020.140.49~2/RELEASE_X86_64 x86_64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/bin/git] git version 2.37.0 (Apple Git-136)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Aug 17 2022 21:20:29)
+CURL:	[/usr/bin/curl] curl 7.79.1 (x86_64-apple-darwin21.0) libcurl/7.79.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.45.1
+NODE:	[/Users/hayleyowens/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
